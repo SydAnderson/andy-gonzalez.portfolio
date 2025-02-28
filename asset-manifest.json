@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/andy-gonzalez.portfolio/static/css/main.bcc0db8a.css",
-    "main.js": "/andy-gonzalez.portfolio/static/js/main.a75218db.js",
-    "index.html": "/andy-gonzalez.portfolio/index.html",
-    "main.bcc0db8a.css.map": "/andy-gonzalez.portfolio/static/css/main.bcc0db8a.css.map",
-    "main.a75218db.js.map": "/andy-gonzalez.portfolio/static/js/main.a75218db.js.map"
+    "main.css": "/static/css/main.bcc0db8a.css",
+    "main.js": "/static/js/main.a75218db.js",
+    "index.html": "/index.html",
+    "main.bcc0db8a.css.map": "/static/css/main.bcc0db8a.css.map",
+    "main.a75218db.js.map": "/static/js/main.a75218db.js.map"
   },
   "entrypoints": [
     "static/css/main.bcc0db8a.css",
