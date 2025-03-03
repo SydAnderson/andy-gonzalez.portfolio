@@ -12,7 +12,7 @@ const about = {
   Coding is not just a job but a personal mission that becomes my passion. Whether that is optimally hunting down bugs, automating processes,
   or exploring the underbelly of game development, I strive to improve myself.
   My vision is unique because it is creative and not limited to knowing only my job, because as a developer, I like to understand the developers job too and that always enhance my vision to make better tests, wheter automated or not.`,
-  resume: 'https://example.com',
+  resume: 'https://docs.google.com/document/d/1nPfU6E01PJKce6oisNO6h5ES7pWqp76-Exwd7gohQKA/edit?usp=sharing',
   social: { 
     linkedin: 'https://www.linkedin.com/in/andy-gon/',
     github: 'https://github.com/SydAnderson',
